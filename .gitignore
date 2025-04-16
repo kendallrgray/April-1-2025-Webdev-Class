@@ -22,3 +22,6 @@ logs
 .env
 .env.*
 !.env.example
+components/Tag2.vue
+components/TimTag1.vue
+/components
